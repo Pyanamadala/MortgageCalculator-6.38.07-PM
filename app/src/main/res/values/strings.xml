@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="principal">Amount Borrowed $</string>
+    <string name="interestrate">Interest Rate :</string>
+    <string name="loanterm">Loan Term (yrs) </string>
+    <string name="taxes">Taxes and Insurance</string>
+    <string name="button">Calculate</string>
+    <string name="payment">Monthly Payment </string>
+</resources>
